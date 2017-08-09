@@ -13,7 +13,7 @@
 #include <Sorting.h>
 int main(void)
 {
-	int
+	//int
 	sortSelection( arr, arrSize);
 	printf();
 	return EXIT_SUCCESS;
