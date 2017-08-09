@@ -10,8 +10,11 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
-int main(void) {
-	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+#include <Sorting.h>
+int main(void)
+{
+	int
+	sortSelection( arr, arrSize);
+	printf();
 	return EXIT_SUCCESS;
 }
